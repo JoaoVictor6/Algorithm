@@ -5,5 +5,5 @@ Round Robin é uma técnica para o balanceamento de carga que distribui eficient
 - Imune a starvation
 	__starvation__ significa inanaição. é um problema que ocorre quando um processo nunca é executado. Bem comum em programação concorrente
 - Usados em sistemas multi-tarefas
-- 
+-
 ### Roadmap
