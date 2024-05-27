@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfe0d3148b2a7a5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d545f70477030967",
+  "active": "cfe0d3148b2a7a5e",
   "lastOpenFiles": [
     "Algorithm.md",
     "Welcome.md"
