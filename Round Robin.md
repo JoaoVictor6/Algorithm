@@ -2,5 +2,5 @@ Round Robin é uma técnica para o balanceamento de carga que distribui eficient
 
 # Especificidades
 - é um dos algoritmos mais simples e mais antigos
-- Imune a sta
+- Imune a starvation
 ### Roadmap
