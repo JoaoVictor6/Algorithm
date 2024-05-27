@@ -1,5 +1,3 @@
-Claro, posso ajudar a criar uma lista de algoritmos indispensáveis para estudo. Vou organizar os algoritmos em diferentes categorias, como algoritmos de escalonamento, ordenação, busca, grafos, entre outros. Vou sugerir um algoritmo por dia, com uma breve descrição para facilitar o estudo. Aqui está a lista:
-
 ### Semana 1: Algoritmos de Escalonamento
 1. **Round Robin** - Algoritmo de escalonamento em sistemas operacionais, onde cada processo recebe uma quantidade de tempo igual para execução em uma ordem circular.
 2. **First-Come, First-Served (FCFS)** - Processos são atendidos na ordem em que chegam.
