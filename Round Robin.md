@@ -21,4 +21,5 @@ Esse algoritmo proporciona uma distribuição justa e equitativa da carga de tra
 
 ## Implementação
 O algoritmo do Round Robin se chama __Round Robin Scheduling__ e irei me basear no seguinte artigo e outros conteudos que irei registrando aqui para implementa-lo.
+- []()
 ## Roadmap
