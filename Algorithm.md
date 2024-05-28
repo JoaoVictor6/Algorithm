@@ -25,7 +25,7 @@
 20. **Exponential Search** - Combina a busca binária e a busca exponencial para encontrar rapidamente um intervalo para a busca binária.
 21. **Interpolation Search** - Busca em listas ordenadas que estima a posição do valor alvo baseado em uma fórmula de interpolação.
 
-### Semana 4: Algoritmos em Grafos
+### Algoritmos em Grafos
 22. **Dijkstra's Algorithm** - Encontra o caminho mais curto de um vértice para todos os outros vértices em um grafo com pesos não negativos.
 23. **Bellman-Ford Algorithm** - Encontra o caminho mais curto de um vértice para todos os outros, permitindo pesos negativos.
 24. **Floyd-Warshall Algorithm** - Encontra os caminhos mais curtos entre todos os pares de vértices em um grafo.
