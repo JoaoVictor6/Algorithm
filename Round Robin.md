@@ -10,6 +10,7 @@ Essa abordagem existe para evitar sobrecarga de uma única porta de comunicaçã
 No contexto de servidor DNS, o Round Robin pode ser usado como uma forma simples de distribuir solicitações entre vários servidores.
 Nesse caso, o servidor DNS responde ás solicitações de resolução de nomes fornecendo uma lista rotativa de endereçõs IP associados ao mesmo nome de domínio, geralmente serão serviçoes redundantes.
 ![[Pasted image 20240528103108.png]]
-### Onde usar
+### Casos de uso
+Ok, entendemos oque seria o algoritmo Round Robin e 
 
 ### Roadmap
