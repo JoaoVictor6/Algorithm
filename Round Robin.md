@@ -14,7 +14,7 @@ Nesse caso, o servidor DNS responde ás solicitações de resolução de nomes f
 Ok, entendemos oque seria o algoritmo Round Robin e como ele é usado em balanceamentos de carga, mas oque seria isso?
 "Balanceamento de caraga" é uma técnica para otimizar a escalabilidade, confiabilidade e desempenho da aplicação. Isso se torna __muito__ útil em serviços com muito trafego.
 
-Ao empregar o Round Robin nessas situações, é possível garantir um melhor desempenho e uma distribuiç
+Ao empregar o Round Robin nessas situações, é possível garantir um melhor desempenho e uma distribuiçãp
 
 
 ### Roadmap
