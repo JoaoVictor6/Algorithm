@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Round Robin.md",
+                "file": "Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Round Robin.md",
+                "file": "Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Round Robin.md",
+                "file": "Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Round Robin.md"
+                "file": "Algorithm.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "cfe0d3148b2a7a5e",
   "lastOpenFiles": [
+    "Round Robin.md",
     "Pasted image 20240528103108.png",
     "Pasted image 20240528104921.png",
     "Algorithm.md",
-    "Round Robin.md",
     "Welcome.md"
   ]
 }
