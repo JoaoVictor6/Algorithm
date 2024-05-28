@@ -34,7 +34,7 @@
 27. **A* Algorithm** - Algoritmo de busca de caminho que usa heurísticas para encontrar o caminho mais curto, frequentemente usado em jogos e IA.
 28. **Topological Sort** - Ordenação dos vértices de um grafo direcionado acíclico de tal forma que para cada aresta u -> v, u vem antes de v na ordenação.
 
-### Semana 5: Algoritmos de Programação Dinâmica
+### Algoritmos de Programação Dinâmica
 29. **Fibonacci Sequence** - Cálculo de números de Fibonacci usando programação dinâmica.
 30. **Knapsack Problem** - Algoritmo para resolver o problema da mochila utilizando programação dinâmica.
 31. **Longest Common Subsequence (LCS)** - Encontra a subsequência comum mais longa entre duas sequências.
