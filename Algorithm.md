@@ -16,7 +16,7 @@
 13. **Heap Sort** - Utiliza uma estrutura de dados chamada heap para ordenar elementos.
 14. **Counting Sort** - Algoritmo de ordenação não comparativo, adequado para listas com valores limitados a um intervalo específico.
 
-### Semana 3: Algoritmos de Busca
+### Algoritmos de Busca
 15. **Linear Search** - Busca um elemento na lista comparando-o sequencialmente com cada elemento.
 16. **Binary Search** - Busca um elemento em uma lista ordenada dividindo repetidamente a lista ao meio.
 17. **Depth-First Search (DFS)** - Algoritmo de busca em grafos que explora o máximo possível ao longo de cada ramificação antes de retroceder.
