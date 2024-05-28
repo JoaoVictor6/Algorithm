@@ -7,5 +7,5 @@ Round Robin é uma técnica para o balanceamento de carga que distribui eficient
 - Usados em sistemas multi-tarefas
 
 Essa abordagem existe para evitar sobrecarga de uma única porta de comunicação, basicamente __"balanceamos"__ a carga distribuindo para todos os serviços.
-No contexto de se
+No contexto de servidor DNS
 ### Roadmap
