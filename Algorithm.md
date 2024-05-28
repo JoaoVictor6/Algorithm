@@ -1,4 +1,4 @@
-
+### Semana 1: Algoritmos de Escalonamento
 1. **Round Robin** - Algoritmo de escalonamento em sistemas operacionais, onde cada processo recebe uma quantidade de tempo igual para execução em uma ordem circular.
 2. **First-Come, First-Served (FCFS)** - Processos são atendidos na ordem em que chegam.
 3. **Shortest Job Next (SJN)** - O processo com o menor tempo de execução é selecionado para execução.
@@ -6,6 +6,8 @@
 5. **Multilevel Queue Scheduling** - Processos são divididos em diferentes filas baseadas em prioridade, e cada fila tem seu próprio algoritmo de escalonamento.
 6. **Multilevel Feedback Queue Scheduling** - Similar ao Multilevel Queue, mas permite que processos se movam entre filas com base em seu comportamento e tempo de execução.
 7. **Earliest Deadline First (EDF)** - Utilizado em sistemas de tempo real, onde o processo com o prazo mais próximo é selecionado para execução.
+
+### Semana 2: Algoritmos de Ordenação
 8. **Bubble Sort** - Algoritmo simples de ordenação que compara e troca elementos adjacentes repetidamente.
 9. **Selection Sort** - Encontra o menor elemento na lista e o move para a posição correta, repetidamente.
 10. **Insertion Sort** - Constrói a lista ordenada de um elemento por vez, inserindo elementos na posição correta.
