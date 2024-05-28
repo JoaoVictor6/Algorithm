@@ -12,7 +12,7 @@ Nesse caso, o servidor DNS responde ás solicitações de resolução de nomes f
 ![[Pasted image 20240528103108.png]]
 ### Casos de uso
 Ok, entendemos oque seria o algoritmo Round Robin e como ele é usado em balanceamentos de carga, mas oque seria isso?
-"Balanceamento de caraga" 
+"Balanceamento de caraga" nada m
 
 
 ### Roadmap
