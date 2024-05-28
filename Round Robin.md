@@ -17,5 +17,5 @@ Ok, entendemos oque seria o algoritmo Round Robin e como ele é usado em balance
 Ao empregar o Round Robin nessas situações, é possível garantir um melhor desempenho e uma distribuição mais eficiente do trabalho, através da alocação equitativa dos recursos e requisições disponíveis.
 
 ### Vantagens
-Esse algoritmo proporciona uma distribuição justa e equitativa da carga de trabalho entre os recursos disponíveis, evitando sobrecargas e subutilizações
+Esse algoritmo proporciona uma distribuição justa e equitativa da carga de trabalho entre os recursos disponíveis, evitando sobrecargas e subutilizações. Além disso, como d
 ### Roadmap
