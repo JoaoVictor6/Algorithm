@@ -1,5 +1,5 @@
 ### Algoritmos de Escalonamento
-1. [**Round Robin**]() - Algoritmo de escalonamento em sistemas operacionais, onde cada processo recebe uma quantidade de tempo igual para execução em uma ordem circular.
+1. [**Round Robin**] - Algoritmo de escalonamento em sistemas operacionais, onde cada processo recebe uma quantidade de tempo igual para execução em uma ordem circular.
 2. **First-Come, First-Served (FCFS)** - Processos são atendidos na ordem em que chegam.
 3. **Shortest Job Next (SJN)** - O processo com o menor tempo de execução é selecionado para execução.
 4. **Priority Scheduling** - Cada processo é atribuído a uma prioridade e o processo com a maior prioridade é selecionado para execução.
