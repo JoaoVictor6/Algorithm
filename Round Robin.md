@@ -21,7 +21,7 @@ Esse algoritmo proporciona uma distribuição justa e equitativa da carga de tra
 
 ### Dicionário
 - **Preempção**: 
-
+	> A **preempção** é implementada através de um relógio de **tempo** real que interrompe a CPU a intervalos de **tempo** regulares, a fim de que o escalonador de tarefas possa fazer uma reavaliação de prioridades e escalonar outro processo. Este intervalo é a unidade básica de alocação de **tempo** da CPU e é denominado quantum.
 ## Implementação
 O algoritmo do Round Robin se chama __Round Robin Scheduling__ e irei me basear no seguinte artigo e outros conteudos que irei registrando aqui para implementa-lo.
 - [Program for Round Robin Scheduling for the same Arrival time](https://www.geeksforgeeks.org/program-for-round-robin-scheduling-for-the-same-arrival-time/)
