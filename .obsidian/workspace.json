@@ -23,9 +23,11 @@
             "id": "cfe0d3148b2a7a5e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240528103108.png"
+                "file": "Round Robin.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240528103108.png",
+                "file": "Round Robin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240528103108.png",
+                "file": "Round Robin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240528103108.png"
+                "file": "Round Robin.md"
               }
             }
           }
@@ -159,10 +161,10 @@
   },
   "active": "cfe0d3148b2a7a5e",
   "lastOpenFiles": [
+    "Pasted image 20240528103108.png",
     "Pasted image 20240528104921.png",
     "Algorithm.md",
     "Round Robin.md",
-    "Pasted image 20240528103108.png",
     "Welcome.md"
   ]
 }
