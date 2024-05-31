@@ -39,4 +39,4 @@ Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explic
 - A quantidade de tempo que o processo precisa pra ser concluido se fosse executado sem __interrupcoes__.
 #### Waiting time
 - E o tempo que um processo passa esperando na fila de _prontos_ antes de ser executado pela CPU.
-- 
+- E calculado co
