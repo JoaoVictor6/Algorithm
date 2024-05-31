@@ -41,4 +41,4 @@ Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explic
 - E o tempo que um processo passa esperando na fila de _prontos_ antes de ser executado pela CPU.
 - E calculado como a diferenca entre o tempo total que um processo passou no sistema e seu burst time. (TurnAroundTime-BurstTime)
 #### Turnaround time(TAT)
-- E o tempo tota
+- E o tempo total que um proces
