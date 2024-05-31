@@ -35,4 +35,4 @@ Caso rode o algoritmo naquele repositorio, voce tera um output igual a este:
 Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explica-los agora.
 
 #### Burst time
-E o tempo total necessario para a execucao do
+E o tempo total necessario para a execucao do processo na CPU.
