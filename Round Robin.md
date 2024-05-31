@@ -34,3 +34,4 @@ Caso rode o algoritmo naquele repositorio, voce tera um output igual a este:
 
 Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explica-los agora.
 
+#### 
