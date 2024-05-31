@@ -29,4 +29,4 @@ O algoritmo do Round Robin se chama __Round Robin Scheduling__ e irei me basear 
 Implementei este algoritmo usando rust e disponibilizei o mesmo neste [repositorio](https://github.com/JoaoVictor6/round-robin). Basicamente copiei um codigo em C# e C++ para rust. foi interessante porem este algoritmo ainda me parece nebuloso. Com o uso do chatGPT consegui entender melhor os conceito e irei documenta-los aqui.
 
 ### Conceitos
-Caso rode o algoritmo naquele rep
+Caso rode o algoritmo naquele repositorio, 
