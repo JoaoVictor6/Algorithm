@@ -38,4 +38,4 @@ Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explic
 - E o tempo total necessario para a execucao do processo na CPU.
 - A quantidade de tempo que o processo precisa pra ser concluido se fosse executado sem __interrupcoes__.
 #### Waiting time
-E o tempo que um processo passa esperando na fila de _prontos_
+E o tempo que um processo passa esperando na fila de _prontos_ antes de s
