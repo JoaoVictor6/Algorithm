@@ -31,3 +31,5 @@ Implementei este algoritmo usando rust e disponibilizei o mesmo neste [repositor
 ### Conceitos
 Caso rode o algoritmo naquele repositorio, voce tera um output igual a este:
 ![[Pasted image 20240531094854.png]]
+
+Ben
