@@ -36,4 +36,5 @@ Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explic
 
 #### Burst time
 - E o tempo total necessario para a execucao do processo na CPU.
-- A quantidade de tempo que o processo precisa pra ser concluido se fosse executado sem __interrupcoes__
+- A quantidade de tempo que o processo precisa pra ser concluido se fosse executado sem __interrupcoes__.
+- 
