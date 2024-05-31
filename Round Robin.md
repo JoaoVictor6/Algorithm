@@ -26,4 +26,4 @@ Esse algoritmo proporciona uma distribuição justa e equitativa da carga de tra
 O algoritmo do Round Robin se chama __Round Robin Scheduling__ e irei me basear no seguinte artigo e outros conteudos que irei registrando aqui para implementa-lo.
 - [Program for Round Robin Scheduling for the same Arrival time](https://www.geeksforgeeks.org/program-for-round-robin-scheduling-for-the-same-arrival-time/)
 
-Implementei este algoritmo usando rust e disponibilizei o mesmo neste [repositorio](https://github.com/JoaoVictor6/round-robin). Basicamente copiei um codigo em C# e C++ para rust. foi interessante porem este
+Implementei este algoritmo usando rust e disponibilizei o mesmo neste [repositorio](https://github.com/JoaoVictor6/round-robin). Basicamente copiei um codigo em C# e C++ para rust. foi interessante porem este algoritmo
