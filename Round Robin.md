@@ -36,4 +36,4 @@ Bem, nele vemos uma tabela com alguns nomes e termos que nao citei e irei explic
 
 #### Burst time
 - E o tempo total necessario para a execucao do processo na CPU.
-- 
+- A quantidade d
